@@ -4,3 +4,5 @@ class MyClass:
   x = 5
 
 print(MyClass)
+thisset = {"apple", "banana", "cherry"}
+print(thisset)
