@@ -1,0 +1,6 @@
+username = input("Enter username:")
+print("Username is: " + username)
+class MyClass:
+  x = 5
+
+print(MyClass)
